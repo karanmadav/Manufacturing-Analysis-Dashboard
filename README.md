@@ -20,9 +20,6 @@
 - Interactive filters by Buyer, Department, and Date  
 - Month-wise production trends  
 
-## 🖼️ Dashboard Preview
-![Dashboard Preview](Images/dashboard_preview.jpg)
-
 ## 📂 Files in this Repository
 - **PowerBI/Manufacturing_Analysis.pbix** – Power BI Dashboard  
 - **Tableau/Manufacturing_Analysis.twbx** – Tableau Workbook  
